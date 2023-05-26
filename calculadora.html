@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+  <link rel="stylesheet" href="calculadora.css">
+</head>
+
+<body>
+    
+  <div class="Div1">
+    <img src="img/E-Gastos (1).png" alt="" class="img">
+    <h2 class="escrita1">Calculadora De Despesas:</h2>
+    <h4 class="escrita2">Essa calculadora vai te fornecer o que você precisa para colocar sua vida financeira em dia.</h4>
+  </div>
+
+  <div class="principal">
+    <h3>Nome Do Gasto</h3>
+    <input type="text" placeholder="Digite aqui" id="nome" c>
+
+    <h3>Valor do gasto</h3>
+    <input type="number" placeholder="Digite aqui" id="valor">
+
+    <h3>Data do gasto</h3>
+    <input type="date" placeholder="Digite aqui" id="data">
+
+    <button onclick="adicionar()">Adicionar</button>
+  </div>
+
+  <div class="gastosLista">
+    <h1>Gastos</h1>
+
+    <ol id="lista" class="mesclar">
+
+    </ol>
+  </div>
+
+  <div class="ultimo">
+    <p id="gastototal">Gasto total:</p>
+    <p id="gastoToTal">R$ </p>
+</div> 
+ 
+
+  <script src="calculadora.js"></script>
+</body>
+</html>

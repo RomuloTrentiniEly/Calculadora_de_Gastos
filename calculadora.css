@@ -1,0 +1,700 @@
+.Div1{
+    position: absolute;
+    background-color:#654bf5 ;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 25%;
+    border-top: none;
+    border-bottom: 3.5px solid goldenrod;
+    
+}
+.img{
+    width: 500px;
+    height: 300px;
+    position: left;
+    margin-left: -40px;
+    margin-top: -40px;
+    
+}
+
+.escrita1{
+    text-align: center;
+    margin-top: -200px;
+    font-size: 50px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: white;  
+     
+}
+
+.escrita2{
+    text-align: center;
+    font-size: 20px;
+    margin-top: -15px;
+    background-color: rgb(245, 245, 24);
+    margin-inline: 10px;
+    padding: 3px;
+}
+
+.principal{
+    text-align: center;
+    margin-top: 250px;
+    width:350px;
+    height: 300px;
+    margin-left: 510px;
+    padding: 5px;
+    border-radius: 10px;
+    border: green solid 7px;
+    
+}
+h3{
+    margin-top: 20px;
+    font-size: 30px;
+    margin-bottom: 10px;
+    
+}
+input{
+    height: 20px;
+   
+   
+    
+}
+.gastosLista{
+   text-align: center;
+   width: 600px;
+   margin-left: 400px;
+   margin-top: -15px;
+   background-color: rgb(204, 204, 204);
+   border: green solid 10px;
+}
+
+.mesclar li:nth-child(even) {
+    background-color: rgb(10, 0, 0);
+    color: white;
+    
+  }
+  
+  .mesclar li:nth-child(odd) {
+    background-color: #a8a5bb;
+    color: black;
+  }
+
+  #botão{
+    margin-block: 15px;
+  }
+
+  li button{
+    margin-left: 50px;
+  }
+
+  #gasto{
+    text-align: left;
+    text-align: top;
+    font-size: 25px;
+    border: green solid 1px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: green solid 10px;
+  }
+
+  .ultimo{
+    width: 200px;
+    height: 100px;
+    font-size: 25px;
+    margin-left: 43%;
+    margin-top: -20px;
+
+  }
+
+
+  
+
+
+  @media (max-width: 1920px) {
+
+    .Div1{
+        position: absolute;
+        background-color:#654bf5 ;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 25%;
+        border-top: none;
+        border-bottom: 3.5px solid goldenrod;
+        
+    }
+    .img{
+        width: 500px;
+        height: 300px;
+        position: left;
+        margin-left: -40px;
+        margin-top: -40px;
+        
+    }
+    
+    .escrita1{
+        text-align: center;
+        margin-top: -200px;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;  
+         
+    }
+    
+    .escrita2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: -15px;
+        background-color: rgb(245, 245, 24);
+        margin-inline: 10px;
+        padding: 3px;
+    }
+    
+    .principal{
+        text-align: center;
+        margin-top: 250px;
+        width:350px;
+        height: 300px;
+        margin-left: 710px;
+        padding: 5px;
+        border-radius: 10px;
+        border: green solid 7px;
+        
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+    }
+    input{
+        height: 20px;
+       
+       
+        
+    }
+    .gastosLista{
+       text-align: center;
+       width: 600px;
+       margin-left: 600px;
+       margin-top: -15px;
+       background-color: rgb(204, 204, 204);
+       border: green solid 10px;
+    }
+    
+    .mesclar li:nth-child(even) {
+        background-color: rgb(10, 0, 0);
+        color: white;
+        
+      }
+      
+      .mesclar li:nth-child(odd) {
+        background-color: #a8a5bb;
+        color: black;
+      }
+    
+      #botão{
+        margin-block: 15px;
+      }
+    
+      li button{
+        margin-left: 50px;
+      }
+    
+      #gasto{
+        text-align: left;
+        text-align: top;
+        font-size: 25px;
+        border: green solid 1px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: green solid 10px;
+      }
+    
+      .ultimo{
+        width: 200px;
+        height: 100px;
+        font-size: 25px;
+        margin-left: 43%;
+        margin-top: -20px;
+    
+      }
+    
+   
+  }
+
+
+
+
+ 
+
+  @media (max-width: 1231px) {
+
+    .Div1{
+        position: absolute;
+        background-color:#654bf5 ;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 25%;
+        border-top: none;
+        border-bottom: 3.5px solid goldenrod;
+        
+    }
+    .img{
+        width: 210px;
+        height: 150px;
+        position: left;
+        margin-left: -40px;
+        margin-top: -40px;
+        
+    }
+    
+    .escrita1{
+        text-align: center;
+        margin-top: -50px;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;  
+         
+    }
+    
+    .escrita2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: -15px;
+        background-color: rgb(245, 245, 24);
+        margin-inline: 10px;
+        padding: 3px;
+    }
+    
+    
+    .principal{
+        text-align: center;
+        margin-top: 250px;
+        width:350px;
+        height: 300px;
+        margin-left: 430px;
+        padding: 5px;
+        border-radius: 10px;
+        border: green solid 7px;
+        
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+    }
+    input{
+        height: 20px;
+       
+       
+        
+    }
+    .gastosLista{
+       text-align: center;
+       width: 600px;
+       margin-left: 300px;
+       margin-top: -15px;
+       background-color: rgb(204, 204, 204);
+       border: green solid 10px;
+    }
+    
+    .mesclar li:nth-child(even) {
+        background-color: rgb(10, 0, 0);
+        color: white;
+        
+      }
+      
+      .mesclar li:nth-child(odd) {
+        background-color: #a8a5bb;
+        color: black;
+      }
+    
+      #botão{
+        margin-block: 15px;
+      }
+    
+      li button{
+        margin-left: 50px;
+      }
+    
+      #gasto{
+        text-align: left;
+        text-align: top;
+        font-size: 25px;
+        border: green solid 1px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: green solid 10px;
+      }
+    
+      .ultimo{
+        width: 200px;
+        height: 100px;
+        font-size: 25px;
+        margin-left: 43%;
+        margin-top: -20px;
+    
+      }
+    
+   
+  }
+
+
+
+
+
+
+  @media (max-width: 931px) {
+
+    .Div1{
+        position: absolute;
+        background-color:#654bf5 ;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 25%;
+        border-top: none;
+        border-bottom: 3.5px solid goldenrod;
+        
+    }
+    .img{
+        width: 210px;
+        height: 150px;
+        position: left;
+        margin-left: -40px;
+        margin-top: -40px;
+        
+    }
+    
+    .escrita1{
+        text-align: center;
+        margin-top: -50px;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;  
+         
+    }
+    
+    .escrita2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: -15px;
+        background-color: rgb(245, 245, 24);
+        margin-inline: 10px;
+        padding: 3px;
+    }
+    
+    
+    .principal{
+        text-align: center;
+        margin-top: 250px;
+        width:350px;
+        height: 300px;
+        margin-left: 230px;
+        padding: 5px;
+        border-radius: 10px;
+        border: green solid 7px;
+        
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+    }
+    input{
+        height: 20px;
+       
+       
+        
+    }
+    .gastosLista{
+       text-align: center;
+       width: 600px;
+       margin-left: 120px;
+       margin-top: -15px;
+       background-color: rgb(204, 204, 204);
+       border: green solid 10px;
+    }
+    
+    .mesclar li:nth-child(even) {
+        background-color: rgb(10, 0, 0);
+        color: white;
+        
+      }
+      
+      .mesclar li:nth-child(odd) {
+        background-color: #a8a5bb;
+        color: black;
+      }
+    
+      #botão{
+        margin-block: 15px;
+      }
+    
+      li button{
+        margin-left: 50px;
+      }
+    
+      #gasto{
+        text-align: left;
+        text-align: top;
+        font-size: 25px;
+        border: green solid 1px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: green solid 10px;
+      }
+    
+      .ultimo{
+        width: 200px;
+        height: 100px;
+        font-size: 25px;
+        margin-left: 43%;
+        margin-top: -20px;
+    
+      }
+    
+   
+
+  }
+
+
+
+
+
+
+  @media (max-width: 755px) {
+
+    .Div1{
+        position: absolute;
+        background-color:#654bf5 ;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 25%;
+        border-top: none;
+        border-bottom: 3.5px solid goldenrod;
+        
+    }
+    .img{
+        width: 210px;
+        height: 150px;
+        position: left;
+        margin-left: -40px;
+        margin-top: -40px;
+        
+    }
+    
+    .escrita1{
+        text-align: center;
+        margin-top: -50px;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;  
+         
+    }
+    
+    .escrita2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: -15px;
+        background-color: rgb(245, 245, 24);
+        margin-inline: 10px;
+        padding: 3px;
+    }
+    
+    .principal{
+        text-align: center;
+        margin-top: 290px;
+        width:350px;
+        height: 300px;
+        margin-left: 110px;
+        padding: 5px;
+        border-radius: 10px;
+        border: green solid 7px;
+        
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+    }
+    input{
+        height: 20px;
+       
+       
+        
+    }
+    .gastosLista{
+       text-align: center;
+       width: 600px;
+       margin-left: 10px;
+       margin-top: -15px;
+       background-color: rgb(204, 204, 204);
+       border: green solid 10px;
+    }
+    
+    .mesclar li:nth-child(even) {
+        background-color: rgb(10, 0, 0);
+        color: white;
+        
+      }
+      
+      .mesclar li:nth-child(odd) {
+        background-color: #a8a5bb;
+        color: black;
+      }
+    
+      #botão{
+        margin-block: 15px;
+      }
+    
+      li button{
+        margin-left: 50px;
+      }
+    
+      #gasto{
+        text-align: left;
+        text-align: top;
+        font-size: 25px;
+        border: green solid 1px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: green solid 10px;
+      }
+    
+      .ultimo{
+        width: 200px;
+        height: 100px;
+        font-size: 25px;
+        margin-left: 43%;
+        margin-top: -20px;
+    
+      }
+    
+   
+  }
+  
+
+
+
+  
+
+  @media (max-width: 755px) {
+
+    .Div1{
+        position: absolute;
+        background-color:#654bf5 ;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 33%;
+        border-top: none;
+        border-bottom: 3.5px solid goldenrod;
+        
+    }
+    .img{
+        width: 210px;
+        height: 150px;
+        position: left;
+        margin-left: -40px;
+        margin-top: -40px;
+        
+    }
+    
+    .escrita1{
+        text-align: center;
+        margin-top: -50px;
+        font-size: 50px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: white;  
+         
+    }
+    
+    .escrita2{
+        text-align: center;
+        font-size: 20px;
+        margin-top: -15px;
+        background-color: rgb(245, 245, 24);
+        margin-inline: 10px;
+        padding: 3px;
+    }
+    
+    .principal{
+        text-align: center;
+        margin-top: 360px;
+        width:300px;
+        height: 280px;
+        margin-left: 70px;
+        padding: 5px;
+        border-radius: 10px;
+        border: green solid 7px;
+        
+    }
+    h3{
+        margin-top: 20px;
+        font-size: 30px;
+        margin-bottom: 10px;
+        
+    }
+    input{
+        height: 20px;
+       
+       
+        
+    }
+    .gastosLista{
+       text-align: center;
+       width: 440px;
+       margin-left: 10px;
+       margin-top: -15px;
+       background-color: rgb(204, 204, 204);
+       border: green solid 10px;
+    }
+    
+    .mesclar li:nth-child(even) {
+        background-color: rgb(10, 0, 0);
+        color: white;
+        
+      }
+      
+      .mesclar li:nth-child(odd) {
+        background-color: #a8a5bb;
+        color: black;
+      }
+    
+      #botão{
+        margin-block: 15px;
+      }
+    
+      li button{
+        margin-left: 50px;
+      }
+    
+      #gasto{
+        text-align: left;
+        text-align: top;
+        font-size: 25px;
+        border: green solid 1px;
+        font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+        border: green solid 10px;
+      }
+    
+      .ultimo{
+        width: 200px;
+        height: 100px;
+        font-size: 25px;
+        margin-left: 43%;
+        margin-top: -20px;
+    
+      }
+    
+   
+  }
+  
+
+
+
+
+
+
